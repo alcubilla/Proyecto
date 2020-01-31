@@ -37,6 +37,10 @@ h1{
     padding: 10px;
 }
 
+#h1small{
+    text-align: center;
+}
+
 .info
 {
     text-align: justify;
@@ -46,13 +50,28 @@ h1{
     padding-top: 1em;
 }
 
+
+
+.info2
+{
+    text-align: justify;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    margin: auto;
+}
+
+
 #cita, h2{
     text-align: center;
     font-size: 30px;
     background-color: #4C525F;
     color: white;
-    padding-top: 1em;
-   padding-bottom: 1em; 
+    padding-top: 1.5em;
+    padding-bottom: 1.5em; 
+    margin-top: 1cm;
+    margin-bottom: 1cm;
 }
 
 .mb-0{
@@ -118,9 +137,37 @@ h1{
     font-size: 1.2rem;
 }
 
-.btn-primary{
+.btn-primary, #rowcom{
     margin-left: 1cm;
 }
 
+.d-flex{
+    height: 100%;
+}
 
+#logo{
+    max-width: 100px;
+    max-height: 100px;
+    align-content: center;
+    
 
+}
+
+#centercol{
+    text-align: center;
+    background-position: center;
+}
+
+#img1{
+    align-items: center;
+    align-content: center;
+}
+
+#btn{
+    margin: auto; 
+}
+#nomar
+{
+    padding: 0em;
+    align-content: center;
+}
