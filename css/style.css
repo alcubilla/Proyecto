@@ -1,0 +1,126 @@
+body, html, .container{
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    padding: 0em;
+}
+
+.link{
+    color: rgb(246, 250, 250);
+}
+
+#imagen{
+    align-content: center;
+}
+
+#idheader{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#card{
+    margin: 0em;
+}
+
+.imgrs
+{
+    max-width: 15mm;
+    max-height: 15mm;
+}
+
+h1{
+    text-align: start;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    font-stretch: extra-expanded;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.info
+{
+    text-align: justify;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+#cita, h2{
+    text-align: center;
+    font-size: 30px;
+    background-color: #4C525F;
+    color: white;
+    padding-top: 1em;
+   padding-bottom: 1em; 
+}
+
+.mb-0{
+ font-size: 15px;
+ padding-left: 5em;
+ padding-right: 5em;
+}
+
+#grano{
+    text-align: right;
+    margin: 0mm;
+} 
+
+#car{
+    text-align: center;
+    border: 5em;
+    width: 5em;
+    height: 5em;
+    color: slategrey;
+}
+
+.blockquote-footer{
+    padding-left: 5em;
+}
+
+/* h2 {
+    font-family: Arial, Verdana;
+    font-weight: 500;
+    font-size: 2.5rem;
+    color: rgb(245, 244, 244);
+    background-color: lightslategrey;
+    text-transform: uppercase;
+} */
+
+.accordion-section .panel-default > .panel-heading {
+    border: 0;
+    background: #f4f4f4;
+    padding: 0;
+}
+
+.accordion-section .panel-default .panel-title a {
+    display: block;
+    font-style: italic;
+    font-size: 1.5rem;
+}
+
+.accordion-section .panel-default .panel-title a:after {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-size: 3rem;
+    content: "\f106";
+    color: #464d53;
+    float: right;
+    margin-top: -12px;
+}
+
+.accordion-section .panel-default .panel-title a.collapsed:after {
+    content: "\f107";
+    color: #464d53;
+}
+
+.accordion-section .panel-default .panel-body {
+    font-size: 1.2rem;
+}
+
+.btn-primary{
+    margin-left: 1cm;
+}
+
+
+
